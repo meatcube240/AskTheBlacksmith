@@ -1,0 +1,55 @@
+body{
+  background-color: #a5acaf;
+  text-align: center;
+  color: white;
+  letter-spacing: .07em;
+  margin: 30px 30px 30px 30px;
+  font-family: serif;
+}
+p{
+  background-color: #004c54;
+  width: 100%;
+  height: 100px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 50px 0 0 0;
+  border-radius: 5px;
+}
+#quoteDisplay{
+  border: solid 5px black;
+  background-color: #888B8E;
+  height: 90px;
+  width: 100%;
+  line-height: 90px;
+  margin: 50px 0 50px 0;
+  text-transform: capitalize;
+  font-size: 16px;
+  border-radius: 5px;
+}
+#blacksmith{
+  margin: 60px 0 60px 0;
+}
+span{
+  padding: 15px;
+  text-transform: capitalize;
+}
+img{
+  width: 70%;
+  height: 70%;
+  margin: 50px 0 0 0;
+}
+button{
+  padding: 10px 15px 10px 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: serif;
+  background-color: red;
+  color: white;
+  border: dotted 2px black;
+  letter-spacing: .07em;
+}
+button:hover{
+  border: dotted 2px black;
+  background-color: #004c54;
+}
