@@ -15,12 +15,12 @@ h1{
   font-size: 90px;
   height: 300px;
   margin: auto;
-  padding: 100px;
+  padding: 100px 100px 100px 150px;
   letter-spacing: .03em;
   color: #3A4A5C;
   text-shadow: 4px 4px 4px Gray;
   border-bottom: solid 10px black;
-  text-align: right;
+
 }
 
 .content{
