@@ -12,8 +12,8 @@ filter: opacity(85%);
 
 h1{
   background-color: white;
-  font-size: 85px;
-  height: 350px;
+  font-size: 90px;
+  height: 300px;
   margin: auto;
   padding: 100px;
   letter-spacing: .03em;
@@ -70,7 +70,7 @@ img{
 width: 250px;
 height: 300px;
 position: absolute;
-margin-left: -50px;
+margin-left: -220px;
 }
 p{
   color: white;
