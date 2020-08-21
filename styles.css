@@ -12,14 +12,15 @@ filter: opacity(85%);
 
 h1{
   background-color: white;
-  font-size: 100px;
-  height: 250px;
-  margin: 0;
+  font-size: 85px;
+  height: 350px;
+  margin: auto;
   padding: 100px;
   letter-spacing: .03em;
   color: #3A4A5C;
   text-shadow: 4px 4px 4px Gray;
   border-bottom: solid 10px black;
+  text-align: right;
 }
 
 .content{
@@ -66,8 +67,8 @@ button:hover{
 }
 
 img{
-width: 300px;
-height: 350px;
+width: 250px;
+height: 300px;
 position: absolute;
 margin-left: -350px;
 }
